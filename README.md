@@ -11,8 +11,9 @@ https://github.com/erlware
 erlang工具英文博客和github地址
 ```
 
-字节对齐
+https://blog.csdn.net/sweetfather/article/details/78487563
 ```text
+字节对齐
 // 假设系统默认是4字节对齐，则：
 // 1.short起始位置必须是2的整数倍
 // 2.long起始位置是4的整数倍
