@@ -21,3 +21,7 @@ https://blog.csdn.net/sweetfather/article/details/78487563
 // 4.整个结构体大小是sizeof(最大长度类型)的整数倍
 // 5.结构体起始位置是sizeof(最大长度类型)的整数倍
 ```
+https://program-think.blogspot.com/
+```text
+一些技术博客和xxx博客
+```
